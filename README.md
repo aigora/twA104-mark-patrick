@@ -1,11 +1,15 @@
-# Título del trabajo
-
-Descripción breve del proyecto a realizar (2-3 frases).
+# Semáforo y trenes
+Se realizará un programa que avise a los usuarios cuando deben cruzar las vías del tren.
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Mark Epelbaum Garcia @Markepelbaumg
+Patrick Castillo Mogollon @arguor
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+Crear un sistema de señales efectivo que prevenga accidentes automovilisticos.
+Aprender como desarrollar y realizar sistemas de arduino que contengan sensores y luces LED.
+
+
+
